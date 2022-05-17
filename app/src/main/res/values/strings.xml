@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">eduAndr</string>
+    <string name="hello">Hello World!</string>
+    <string name="hello1">helo</string>
+    <string name="enter">ВХОД</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+
+    <string name="next">Дальше</string>
+    <string name="prev">Назад</string>
+
+</resources>
