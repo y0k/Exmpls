@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                             (HttpsURLConnection) githubEndpoint.openConnection();
 
                     myConnection.setRequestProperty("User-Agent",
-                            "my-rest-app-v0.1"); //unikalny zagolovok
+                            "my-rest-app-v0.1"); //unikalny zagolovok.
                     myConnection.setRequestProperty("Accept",
                             "application/vnd.github.v3+json");
                     myConnection.setRequestProperty("Contact-Me",
