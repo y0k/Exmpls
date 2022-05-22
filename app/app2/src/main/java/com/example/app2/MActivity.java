@@ -41,7 +41,7 @@ public class MActivity extends AppCompatActivity {
                         TextView textView = findViewById(R.id.textView);
                         String txtName = editText.getText().toString();
                         textView.setText(txtName);
-                        v.setClickable(false);
+//                        v.setClickable(false);
 
                         break;
                     default:
